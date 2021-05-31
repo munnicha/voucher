@@ -1,4 +1,4 @@
-package com.munnicha.voucher.voucher;
+package com.munnicha.voucher.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

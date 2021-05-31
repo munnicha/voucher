@@ -1,4 +1,4 @@
-package com.munnicha.voucher.voucher;
+package com.munnicha.voucher.test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.munnicha.voucher.CreateVoucherRequest;
