@@ -1,4 +1,4 @@
-package com.munnicha.voucher.service.security;
+package com.munnicha.voucher.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
